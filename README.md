@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **tips94988@gmail.com**
 
-- ⚡ Fun fact **When i started i was dumb**
+- ⚡ Fun fact **Im 13 years old :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
