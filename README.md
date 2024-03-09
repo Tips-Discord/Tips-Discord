@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tips</h1>
 <h3 align="center">A developer from Poland</h3>
 
+![Malware Reporter](https://img.shields.io/badge/Malware_Reporter-red)
+![Discord Bot Maker](https://img.shields.io/badge/Discord_Bot_Maker-blue)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tips-discord&label=Profile%20views&color=0e75b6&style=flat" alt="tips-discord" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tips-discord" alt="tips-discord" /></a> </p>
