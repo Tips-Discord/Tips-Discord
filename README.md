@@ -18,7 +18,7 @@
 - 📫 How to reach me **tips94988@gmail.com**
 
 - ⚡ Fun fact **Im 13 years old :D**
-- Malicious Repos Banned: 31
+- Malicious Repos Banned: 32
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
