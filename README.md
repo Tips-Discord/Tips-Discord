@@ -17,8 +17,7 @@
 
 - 📫 How to reach me **tips94988@gmail.com**
 
-- ⚡ Fun fact **Im 13 years old :D**
-- Malicious Tepositories Banned: 35
+- Malicious Tepositories Banned: 36
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
