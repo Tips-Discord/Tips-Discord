@@ -5,7 +5,6 @@
 ![Discord Bot Maker](https://img.shields.io/badge/Discord_Bot_Maker-blue)
 ![Python Developer](https://img.shields.io/badge/Python_Developer-yellow)
 ![Node.js Developer](https://img.shields.io/badge/Node.js_Developer-blue)
-![Discord Raider](https://img.shields.io/badge/Discord_Rule_Breaker-green)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tips-discord&label=Profile%20views&color=0e75b6&style=flat" alt="tips-discord" /> </p>
 
@@ -17,7 +16,7 @@
 
 - 📫 How to reach me **tips94988@gmail.com**
 
-- Malicious Tepositories Banned: 36
+- Malicious Tepositories Banned: 38
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
