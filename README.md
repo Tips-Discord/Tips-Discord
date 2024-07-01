@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **tips94988@gmail.com**
 
-- Malicious Tepositories Banned: 38
+- Malicious Repositories Banned: 38
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
