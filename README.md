@@ -18,7 +18,7 @@
 
 <p align="center">
   🌱 Currently learning <strong>Node.js, Python</strong><br/>
-  🚫 Banned 41 Malicious Repositories<br/>
+  🚫 Banned 43Malicious Repositories<br/>
   👨‍💻 Explore my projects on <a href="https://github.com/Tips-Discord">GitHub</a><br/>
   📫 Reach me at <strong>tips94988@gmail.com</strong>
 </p>
