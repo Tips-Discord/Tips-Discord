@@ -20,6 +20,7 @@
 <p align="center" style="font-family:Segoe UI,Roboto,sans-serif;color:#cfd8dc;">
   🚫 Removed <strong>45 Malicious Repositories</strong> from GitHub<br/>
   👨‍💻 Explore my work on <a href="https://github.com/Tips-Discord" target="_blank" style="color:#00bcd4;text-decoration:none;">GitHub</a><br/>
+  📫 Reach out at <strong>tips94988@gmail.com</strong>
 </p>
 
 <p align="center">
