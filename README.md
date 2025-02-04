@@ -12,9 +12,5 @@
 </p>
 
 <div align="center" style="margin: 20px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tips-discord&theme=react&fire=00bcd4&ring=00bcd4&currStreakLabel=c9d1d9&background=0d1117&border=0d1117" alt="GitHub Streak" style="border: 2px solid #00bcd4; border-radius: 10px;" />
-</div>
-
-<div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=tips-discord&show_icons=true&theme=react&title_color=00bcd4&icon_color=00bcd4&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117" alt="GitHub Stats" style="border: 2px solid #00bcd4; border-radius: 10px;" />
 </div>
