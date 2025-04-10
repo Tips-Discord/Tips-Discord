@@ -5,12 +5,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tips-discord&label=Profile%20views&color=00bcd4&style=for-the-badge" alt="Profile views" />
-  <a href="https://discord.gg/huYhNFnaSc" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <img src="https://count.getloli.com/@Tips-Discord?name=Tips-Discord&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
+  
 <div align="center" style="margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=tips-discord&show_icons=true&theme=react&title_color=00bcd4&icon_color=00bcd4&bg_color=0d1117&text_color=c9d1d9&border_color=0d1117" alt="GitHub Stats" style="border: 2px solid #00bcd4; border-radius: 10px;" />
 </div>
