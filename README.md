@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Fira Code', monospace;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=999&size=21&duration=3980&pause=989&center=true&vCenter=true&multiline=true&width=500&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Tips!;Just+your+typical+developer+from+Poland..;Yes%2C+I+am+a+crazy+person." alt="Typing SVG" style="border: 2px solid #00bcd4; border-radius: 10px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=999&size=21&duration=3980&pause=989&center=true&vCenter=true&multiline=true&width=500&height=101&lines=Hi+%F0%9F%91%8B%2C+I'm+Tips!;Just+your+typical+developer+from+Poland...;.....+Yes%2C+I+am+crazy;++++++++++Please+help...." alt="Typing SVG" style="border: 2px solid #00bcd4; border-radius: 15px;" />
   </a>
 </h1>
 
