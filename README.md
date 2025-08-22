@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://count.getloli.com/@Tips-Discord?name=Tips-Discord&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto" alt="Profile views" />
+  <img src="https://count.getloli.com/@Tips-Discord?name=Tips-Discord&theme=rule34&padding=1&offset=0&align=center&scale=1&pixelated=0&darkmode=auto" alt="Profile views" />
 </p>
 
 <p align="center">
