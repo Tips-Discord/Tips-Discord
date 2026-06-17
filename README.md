@@ -9,12 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-2f3136?style=for-the-badge&logo=discord&logoColor=8b949e" alt="Discord" />
-  </a>
-  <a href="https://github.com/tips-discord">
-    <img src="https://img.shields.io/badge/GitHub-2f3136?style=for-the-badge&logo=github&logoColor=8b949e" alt="GitHub" />
-  </a>
+  <a href="https://discord.com"><img height="42" src="https://img.shields.io/badge/Discord-2f3136?style=for-the-badge&logo=discord&logoColor=8b949e" alt="Discord" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/tips-discord"><img height="42" src="https://img.shields.io/badge/GitHub-2f3136?style=for-the-badge&logo=github&logoColor=8b949e" alt="GitHub" /></a>
 </p>
 
 <h3 align="center" style="color: #8b949e; font-family: 'Fira Code', monospace;">Skills</h3>
@@ -25,15 +21,8 @@
 </p>
 
 <h3 align="center" style="color: #8b949e; font-family: 'Fira Code', monospace;">GitHub Statistics</h3>
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=tips-discord&show_icons=true&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" style="border: 2px solid #30363d; border-radius: 10px; margin: 5px;" width="380" />
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tips-discord&layout=compact&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d" alt="Top Languages" style="border: 2px solid #30363d; border-radius: 10px; margin: 5px;" width="300" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img align="center" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api?username=tips-discord&show_icons=true&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="GitHub Stats" width="380" />
+  &nbsp;&nbsp;
+  <img align="center" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tips-discord&layout=compact&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top Languages" width="300" />
+</p>
