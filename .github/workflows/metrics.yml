@@ -2,7 +2,8 @@ name: Metrics
 on:
   # Automatically run this action every 24 hours
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * 0"
+    - cron: "0 12 * * 3"
   workflow_dispatch:
   # Run when you push code to your main branch
   push:
