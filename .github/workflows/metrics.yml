@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  # Automatically run this action every 24 hours
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  # Run when you push code to your main branch
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Output filename
+          filename: github-metrics.svg
+
+          # Core configuration to include forks
+          repositories_forks: yes
+
+          # Enable the language plugin
+          plugin_languages: yes
+          plugin_languages_limit: 8
