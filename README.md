@@ -16,7 +16,7 @@
 <h3 align="center" style="color: #8b949e; font-family: 'Fira Code', monospace;">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,discord,git,github,vscode,wasm,bash,cpp,dotnet,html&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,vscode,wasm,bash,cpp,c,dotnet,html,css,rust,&theme=dark" alt="My Skills" />
   </a>
 </p>
 
