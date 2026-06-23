@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://discord.gg/AQhmTHWRt4"><img height="42" src="https://img.shields.io/badge/Discord-2f3136?style=for-the-badge&logo=discord&logoColor=8b949e" alt="Discord" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/tips-discord"><img height="42" src="https://img.shields.io/badge/GitHub-2f3136?style=for-the-badge&logo=github&logoColor=8b949e" alt="GitHub" /></a>
+  <a href="https://github.com/tips-discord"><img height="42" src="https://img.shields.io/badge/GitHub-2f3136?style=for-the-badge&logo=github&logoColor=8b949e" alt="GitHub" title="OMG NO WAY!!!!!" /></a>
 </p>
 
 <h3 align="center" style="color: #8b949e; font-family: 'Fira Code', monospace;">Skills</h3>
