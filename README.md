@@ -16,7 +16,7 @@
 <h3 align="center" style="color: #8b949e; font-family: 'Fira Code', monospace;">Skills</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,git,vscode,wasm,bash,cpp,c,dotnet,html,css,rust,&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,vscode,wasm,bash,cpp,c,dotnet,html,css,rust,&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -24,5 +24,5 @@
 <p align="center">
   <img align="center" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api?username=tips-discord&show_icons=true&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="GitHub Stats" width="380" />
   &nbsp;&nbsp;
-  <img align="center" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tips-discord&layout=compact&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top Languages" width="300" />
+  <img align="center" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tips-discord&layout=compact&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="Top Languages" width="300" title="Most languages are hidden here because this API doesn't support forks and private repositories." />
 </p>
