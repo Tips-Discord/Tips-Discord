@@ -30,7 +30,7 @@
   <br /><br />
 
   <!-- Skills -->
-  <h3>🛠️ Skills</h3>
+  <h3>Skills</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,git,vscode,wasm,bash,cpp,c,dotnet,html,css,rust&theme=dark" alt="My Skills" />
   </a>
@@ -38,7 +38,7 @@
   <br /><br />
 
   <!-- GitHub Statistics -->
-  <h3>📊 GitHub Statistics</h3>
+  <h3>GitHub Statistics</h3>
   <a href="https://github.com/tips-discord">
     <img src="https://github-readme-stats.vercel.app/api?username=tips-discord&show_icons=true&title_color=8b949e&icon_color=8b949e&bg_color=0d1117&text_color=c9d1d9&border_color=30363d&border_radius=10" alt="GitHub Stats" height="165" />
   </a>
